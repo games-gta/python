@@ -1,2 +1,2 @@
-# python
+# devam
 hi devam 
